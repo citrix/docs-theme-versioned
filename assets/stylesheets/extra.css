@@ -1,6 +1,6 @@
 @font-face {
     font-family: "citrixnewsans-regular";
-    src: url("/assets/fonts/citrix/eot/CitrixNewSans-Regular.eot") format("eot"), url("./fonts/citrix/woff/CitrixNewSans-Regular.woff") format("woff"), url("_static/fonts/woff2/CitrixNewSans-Regular.woff2") format("woff2"), url("_static/fonts/ttf/CitrixNewSans-Regular.ttf") format("truetype"), url("_static/fonts/otf/CitrixNewSans-Regular.otf") format("opentype"); }
+    src: url("/assets/fonts/citrix/eot/CitrixNewSans-Regular.eot") format("eot"), url("assets/stylesheets/fonts/citrix/woff/CitrixNewSans-Regular.woff") format("woff"), url("_static/fonts/woff2/CitrixNewSans-Regular.woff2") format("woff2"), url("_static/fonts/ttf/CitrixNewSans-Regular.ttf") format("truetype"), url("_static/fonts/otf/CitrixNewSans-Regular.otf") format("opentype"); }
   @font-face {
     font-family: "citrixnewsans-bold";
     src: url("/assets/fonts/citrix/eot/CitrixNewSans-Bold.eot") format("eot"), url("_static/fonts/woff/CitrixNewSans-Bold.woff") format("woff"), url("_static/fonts/woff2/CitrixNewSans-Bold.woff2") format("woff2"), url("_static/fonts/ttf/CitrixNewSans-Bold.ttf") format("truetype"), url("_static/fonts/otf/CitrixNewSans-Bold.otf") format("opentype"); }
